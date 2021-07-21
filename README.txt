@@ -27,6 +27,8 @@ How To Run:
 	is in it.
 	3. Configure the environment to Java 16.
 	4. Run
+	5. If the code cannot be compiled properly, please try File->Invalidate Caches->Clear&Restart
+	If still couldn't work, please contact me.
 
 
 Result:
